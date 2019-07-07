@@ -16,7 +16,9 @@ description: > # "Douglas S. Chifetete's Personal Page"
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
-
+# Build sitemap
+gems:
+  - jekyll-sitemap
 # Build settings
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
