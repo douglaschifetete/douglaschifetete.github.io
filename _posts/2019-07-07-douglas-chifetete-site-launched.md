@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Doulas Chifetete, The Dutch, Launches Site"
+title: "Douglas Chifetete, The Dutch, Launches Site"
 date: 2019-07-07
 ---
 
