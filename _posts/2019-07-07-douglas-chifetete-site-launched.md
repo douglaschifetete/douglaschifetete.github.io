@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Douglas Chifetete, The Dutch, Launches Site"
 date: 2019-07-07
 ---
