@@ -18,7 +18,7 @@ name: "Douglas Shingirayi Chifetete"
 description: "The home page of Douglas (Shingi) Chifetete, blogger and software engineer at Entelect."
 thumbnail_path: "profile-photos/douglas-chifetete.png"
 website_repo_url: "https://github.com/douglaschifetete/douglaschifetete.github.io"
-gruntwork_url: "https://www.entelect.co.za/"
+entelect_url: "https://www.entelect.co.za"
 
 # URLs
 contact_urls:
