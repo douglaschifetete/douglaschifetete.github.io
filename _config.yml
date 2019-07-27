@@ -1,30 +1,59 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Website settings
+url: "https://www.douglaschifetete.co.za"
 
-# Site settings
-title: Douglas S. Chifetete - Agile Software Developer
-author: Douglas Shingirayi Chifetete
-email: dougchifetete@gmail.com
-description: > # "Douglas S. Chifetete's Personal Page"
-  My personal website.
+# Internal nav
+nav:
+  main:
+    writing: "/writing"
+    projects: "/projects"
+    photos: "https://www.instagram.com/doug_shingi"
+  writing:
+    all: "/writing"
+    popular: "/writing/popular"
+    tags: "/writing/tags"
+    rss: "/feed.xml"
+
+# Bio settings
+name: "Douglas Shingirayi Chifetete"
+description: "The home page of Douglas (Shingi) Chifetete, blogger and software engineer at Entelect."
+thumbnail_path: "profile-photos/douglas-chifetete.png"
+website_repo_url: "https://github.com/douglaschifetete/douglaschifetete.github.io"
 
 
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
-# Build sitemap
+# URLs
+contact_urls:
+  twitter:
+    url: "https://twitter.com/dschifetete"
+    label: "Twitter"
+    icon: "twitter-square"
+    username: "@dschifetete"
+  linkedin:
+    url: "https://www.linkedin.com/in/douglas-chifetete/"
+    label: "LinkedIn"
+    icon: "linkedin-square"
+  github:
+    url: "https://github.com/mufukuri/"
+    label: "GitHub"
+    icon: "github-square"
+  email:
+    url: "mailto:douglas.chifetete@gmail.com"
+    label: "Email"
+    value: "douglas.chifetete@gmail.com"
+    icon: "envelope-square"
+
+# Jekyll build settings
+paginate: 10
+paginate_path: "/writing/page:num"
+permalink: "/writing/:year/:month/:day/:title/"
+sass:
+  sass_dir: "/assets/css"
+  style: :compressed
+highlighter: rouge
+timezone: 'Africa/Harare'
+repository: douglaschifetete/douglaschifetete.github.io
+
+# Plugins (GitHub Pages only support a few)
 gems:
+  - jekyll-redirect-from
   - jekyll-sitemap
-# Build settings
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-# Build sitemap
-gems:
-  - jekyll-sitemap
-# Theming
-theme: jekyll-theme-architect
-
+  - jekyll-paginate
