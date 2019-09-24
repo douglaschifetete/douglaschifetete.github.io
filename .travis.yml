@@ -7,7 +7,7 @@ rvm:
 before_script:
   - gem update --system
   - gem install bundler
-  - rm rf public
+  - rm -rf public
 script:
   - bundle exec jekyll build
 
