@@ -1,4 +1,9 @@
 language: ruby
+rvm:
+  - 2.6.0
+  - jruby
+  - truffleruby
+  - 2.6.0p0
 before_script:
   - rm fr public
 script:
