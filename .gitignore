@@ -8,7 +8,7 @@ node_modules
 _site/
 .sass-cache/
 .jekyll-metadata
-
+public
 # OS X
 .DS_Store
 .AppleDouble

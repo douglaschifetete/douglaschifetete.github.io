@@ -62,7 +62,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.8.6)
   jekyll-paginate (= 1.1.0)
   jekyll-redirect-from (= 0.12.1)
   jekyll-sitemap (= 1.1.1)

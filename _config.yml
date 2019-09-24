@@ -7,6 +7,7 @@ nav:
     writing: "/writing"
     projects: "/projects"
     photos: "https://www.instagram.com/doug_shingi"
+
   writing:
     all: "/writing"
     popular: "/writing/popular"
@@ -19,6 +20,7 @@ description: "The home page of Douglas (Shingi) Chifetete, blogger and software 
 thumbnail_path: "profile-photos/douglas-chifetete.png"
 website_repo_url: "https://github.com/douglaschifetete/douglaschifetete.github.io"
 entelect_url: "https://www.entelect.co.za"
+destination: public
 
 # URLs
 contact_urls:

@@ -2,7 +2,6 @@
 - name: "Douglas Shingirayi Chifetete Personal Website"
   date: "2015"
   description: |
-    I built all the pages you're looking at now using Jekyll, GitHub Pages, and
-    Basscss.
+    I built all the pages you're looking at now using Jekyll and GitHub Pages.
   url: "https://github.com/douglaschifetete/douglaschifetete.github.io"
-  image: "yevgeniy-brikman-homepage.jpg"
+  image: "douglas-chifetete-homepage.png"
