@@ -5,6 +5,8 @@ rvm:
   - truffleruby
   - 2.6.0p0
 before_script:
+  - gem update --system
+  - gem install bundler
   - rm fr public
 script:
   - bundle exec jekyll build
