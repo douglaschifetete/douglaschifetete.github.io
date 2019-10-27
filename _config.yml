@@ -59,7 +59,4 @@ disqus:
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   shortname: my_disqus_shortname
 # Plugins (GitHub Pages only support a few)
-gems:
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-paginate
+
