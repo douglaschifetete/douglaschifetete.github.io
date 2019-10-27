@@ -21,7 +21,7 @@ thumbnail_path: "profile-photos/douglas-chifetete.png"
 website_repo_url: "https://github.com/douglaschifetete/douglaschifetete.github.io"
 entelect_url: "https://www.entelect.co.za"
 destination: public
-
+future: true
 # URLs
 contact_urls:
   twitter:
