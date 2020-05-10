@@ -35,3 +35,8 @@ path="blog/own-your-story/smart-goals.png"
 alt="Herding goats" %}
 
 On a personal level, one can apply this framework to focus their professional and career goals. I have personally decided to use this framework to regularly set and review my personal and professional goals for 2020. To keep myself focused, I have formulated a celebration grid on Trello to write down and track my goals.
+
+
+{% include image.html
+path="blog/own-your-story/finance-books.png"
+alt="Reading lists" %}
