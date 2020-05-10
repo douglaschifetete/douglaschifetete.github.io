@@ -15,18 +15,23 @@ My dad turned sixty last month, and to mark this milestone, we organized a mini 
 ## Herding Goats
 
 {% include image.html
-path="blog/own-your-story/goats.jpg"
-max-width="200px"
+path="blog/own-your-story/goats-herding.jpg"
 alt="Herding goats" %}
 
-It turned out he had been spending more time at the plot, herding goats.
-This experience gave him time to observe how goats graze and the more he spent time with them. The stronger comparisons he could make with how people live their lives.  Goats spending most of the day moving around foraging for what they assume are better grazing spots. Half the time moving away from the best areas and venturing into zones with spare grass and shrubs.
+It turned out he had been spending more time at the plot, out in Chakari, herding goats. This experience gave him time to observe how goats graze and the more he spent time with them. The stronger comparisons he could make with how people live their lives. Goats spending most of the day moving around foraging for what they assume are better grazing spots. Half the time moving away from the best areas and venturing into zones with spare grass and shrubs.
 
-As people, we also tend to follow the same pattern in our lives. Setting vague goals, and never really accomplish anything of substance. We are not actively taking control of our careers, little less our own lives.  As a software engineer, I have been guilty of not owning my career story. I have behaved as the goats and have not been regularly setting and tracking my career goals.
+As people, we also tend to follow the same pattern in our lives. Setting vague goals, and never really accomplish anything of substance. Before you know it the year goes by, without ever meeting any of your New Years' resolutions.
 
+We are not actively taking control of our careers, little less our own lives. As a software engineer, I have been guilty of not owning my career story. I have behaved as the goats and have not been regularly setting and tracking my career goals.
 
 ## Goal Setting
 
 The end of the previous decade has given me time to reflect on how I am managing my career and one of the things I have resolved to be better at goal setting. Gone are the days of setting a vague goal like getting better at deep learning. Or something that is not time bout and specific as learning flutter.
 
 What we should be doing instead is formulating goals that specific, measurable, achievable, realistic, and time-bound.
+
+{% include image.html
+path="blog/own-your-story/smart-goals.png"
+alt="Herding goats" %}
+
+On a personal level, one can apply this framework to focus their professional and career goals. I have personally decided to use this framework to regularly set and review my personal and professional goals for 2020. To keep myself focused, I have formulated a celebration grid on Trello to write down and track my goals.
