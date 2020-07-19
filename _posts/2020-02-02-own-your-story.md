@@ -30,13 +30,15 @@ The end of the previous decade has given me time to reflect on how I am managing
 
 What we should be doing instead is formulating goals that specific, measurable, achievable, realistic, and time-bound.
 
+
 {% include image.html
 path="blog/own-your-story/smart-goals.png"
 alt="Herding goats" %}
 
 On a personal level, one can apply this framework to focus their professional and career goals. I have personally decided to use this framework to regularly set and review my personal and professional goals for 2020. To keep myself focused, I have formulated a celebration grid on Trello to write down and track my goals.
-
-
 {% include image.html
-path="blog/own-your-story/finance-books.png"
-alt="Reading lists" %}
+path="blog/own-your-story/vision-board.png"
+alt="Herding goats" %}
+
+For this year I have categorized my goals under personal finance,
+technical skills development, and asset acquisition. In upcoming posts, I will look to zero in on the specific goals and track my progress towards their attainment.
