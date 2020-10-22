@@ -14,7 +14,7 @@ thumbnail_path: blog/cloud-journey/cloud.jpg
 # Journey into the Cloud: Part 1 - AWS Cloud Practitioner Certification
 These days businesses are looking at improving operational efficiency and agility by leveraging technology. For a majority of businesses both large and small, opportunities exist to make use of cloud-based solutions to run some of their systems. These can be in terms of computing power, storage, or utilizing some of the big data, and machine learning solutions offered by Azure, Google, and AWS.
 
-Towards the end of 2019, the client I am working at announced that it had chosen AWS as its preferred cloud partner. As a business, the bank would be slowly migrating some of its systems to the cloud to increase its agility and save on IT operation costs. Globally a lot of organizations, are also taking the steps of moving away from monolith on-premise applications to smaller sized cloud-native applications running in the cloud.
+Towards the end of 2019, the client I am working at announced that it had chosen AWS as its preferred cloud partner. As a business, the client would be slowly migrating some of its systems to the cloud to increase its agility and save on IT operation costs. Globally a lot of organizations, are also taking the steps of moving away from monolith on-premise applications to smaller sized cloud-native applications running in the cloud.
 
 Such trends mean that going into 2020, I had to start learning more about the cloud. Learning about AWS was a natural first step, as this is by far the major player in terms of offering cloud services. 
 
